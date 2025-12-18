@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+profile.db
+.DS_Store
+
+# Flutter
+.dart_tool/
+.build/
+.pub-cache/
+.pub/
+build/
